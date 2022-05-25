@@ -624,7 +624,7 @@ const JogPanel = () => {
                 {!isKeyboardEnabled && (
                     <div class="hide-low jog-svg-container">
                         <svg
-                            width="250px"
+                            width="100%"
                             viewBox="0 -5 325 255"
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
